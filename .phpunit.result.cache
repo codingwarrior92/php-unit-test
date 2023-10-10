@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CommissionCalculatorTest::testCalculateCommissionsFromFile":7,"CommissionCalculatorTest::testGetCountryCode":8,"CommissionCalculatorTest::testCalculateCommissions":7},"times":{"CommissionCalculatorTest::testCalculateCommissionsFromFile":2.858,"CommissionCalculatorTest::testGetCountryCode":0.68,"CommissionCalculatorTest::testCalculateCommissions":0}}
